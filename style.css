@@ -4,6 +4,10 @@
 	box-sizing: inherit;
 }
 
+body{
+	background-color: #94bbe9;
+}
+
 .calculator{
 	border-radius: 5px;
 	border: 1px solid #ccc;
